@@ -1,2 +1,2 @@
-<hq>sistma de Registro<h1/>
--Estado del proyectpo: En construccion.-
+<hq>Sistema de Registro<h1/>
+-Estado del proyecto: En construcción.-
